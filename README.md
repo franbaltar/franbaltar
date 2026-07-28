@@ -1,4 +1,4 @@
-## Hello World! I'm Fran, a full stack web development studant trying to learn and practice everyday! 
+## Hello World!
 
  <div>
    <img src="https://gitlyy.vercel.app/api/languages?username=franbaltar&layout=donut&hide_border=true"/>
