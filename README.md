@@ -1,4 +1,12 @@
-## Hello World!
+## Desenvolvedor Web Full Stack em formação, graduado em Análise e Desenvolvimento de Sistemas, com
+experiência prática no desenvolvimento de projetos Front-End e Back-End. Possuo conhecimentos em React,
+TypeScript, JavaScript, Node.js, Express, PostgreSQL, Prisma, Docker, Tailwind CSS e APIs REST, além de
+versionamento de código com Git e GitHub.
+Iniciei minha carreira na área de hotelaria, evoluindo de Assistente de RH a Supervisor de Front Desk,
+experiência que desenvolveu minha capacidade de resolução de problemas, trabalho em equipe e comunicação
+com diferentes perfis de pessoas. Atualmente, direciono essas competências para o desenvolvimento de
+software, buscando minha primeira oportunidade profissional na área de tecnologia e a possibilidade de
+contribuir em equipes de desenvolvimento enquanto continuo evoluindo tecnicamente.
 
  <div>
    <img src="https://gitlyy.vercel.app/api/languages?username=franbaltar&layout=donut&hide_border=true"/>
