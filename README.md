@@ -1,4 +1,5 @@
-## Desenvolvedor Web Full Stack em formação, graduado em Análise e Desenvolvimento de Sistemas, com
+## 
+Desenvolvedor Web Full Stack em formação, graduado em Análise e Desenvolvimento de Sistemas, com
 experiência prática no desenvolvimento de projetos Front-End e Back-End. Possuo conhecimentos em React,
 TypeScript, JavaScript, Node.js, Express, PostgreSQL, Prisma, Docker, Tailwind CSS e APIs REST, além de
 versionamento de código com Git e GitHub.
