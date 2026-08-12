@@ -1,4 +1,4 @@
-## Olá!!! Sou o Francisco, bem-vindo!
+## Olá! Sou o Francisco, bem-vindo ao meu GitHub!
 Desenvolvedor Web Full Stack, graduado em Análise e Desenvolvimento de Sistemas, com
 experiência prática no desenvolvimento de projetos Front-End e Back-End. Possuo conhecimentos em React,
 TypeScript, JavaScript, Node.js, Express, PostgreSQL, Prisma, Docker, Tailwind CSS e APIs REST, além de
