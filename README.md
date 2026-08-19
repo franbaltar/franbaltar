@@ -1,14 +1,7 @@
 ## Olá! Sou o Francisco, bem-vindo ao meu GitHub!
-Desenvolvedor Web Full Stack em início de carreira, graduado em Análise e Desenvolvimento de Sistemas, com
-experiência prática no desenvolvimento de projetos Front-End e Back-End. Possuo conhecimentos em React,
-TypeScript, JavaScript, Node.js, Express, PostgreSQL, Prisma, Docker, Tailwind CSS e APIs REST, além de
-versionamento de código com Git e GitHub.
+Desenvolvedor Front-end em início de carreira, graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando o DevQuest, curso de formação Full Stack. Tenho como foco profissional o desenvolvimento Front-end, área na qual venho construindo minha base técnica e desenvolvendo projetos práticos.
 
-Iniciei minha carreira na área de hotelaria, evoluindo de Assistente de RH a Supervisor de Front Desk,
-experiência que desenvolveu minha capacidade de resolução de problemas, trabalho em equipe e comunicação
-com diferentes perfis de pessoas. Atualmente, direciono essas competências para o desenvolvimento de
-software, buscando minha primeira oportunidade profissional na área de tecnologia e a possibilidade de
-contribuir em equipes de desenvolvimento enquanto continuo evoluindo tecnicamente.
+Possuo conhecimentos em React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, APIs REST e Git. Também utilizo ferramentas de IA como apoio ao desenvolvimento e aos estudos, buscando compreender os conceitos e as soluções utilizadas. Ao longo da minha formação, venho aplicando esses conhecimentos em projetos práticos para consolidar minha experiência com desenvolvimento de aplicações web.
 
  <div>
    <img src="https://gitlyy.vercel.app/api/languages?username=franbaltar&layout=donut&hide_border=true"/>
